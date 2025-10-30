@@ -39,4 +39,6 @@ Employee attrition is significantly influenced by age, education, salary slab, a
 Data-driven HR analytics, using SQL and visualization, offer actionable insights for reducing attrition and improving workforce planning.
 
 Effective data cleaning and validation are critical to ensure analysis accuracy and reliability.​
+# 📁 Files Included:
+. power bi pbxi :
 
