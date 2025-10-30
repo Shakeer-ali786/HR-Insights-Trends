@@ -40,5 +40,5 @@ Data-driven HR analytics, using SQL and visualization, offer actionable insights
 
 Effective data cleaning and validation are critical to ensure analysis accuracy and reliability.​
 # 📁 Files Included:
-. power bi pbxi :
+. power bi pbxi :https://app.powerbi.com/groups/me/reports/575cd693-9d0c-49c0-8f50-0d36a3308665/ReportSection?experience=power-bi..
 
